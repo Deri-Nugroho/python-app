@@ -32,6 +32,10 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+or
+```bash
+flask run --host=0.0.0.0 --port=5000
+```
 ### 5. Access the Web App
 Open your browser and go to:
 ```
